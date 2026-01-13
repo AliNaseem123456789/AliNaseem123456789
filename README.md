@@ -17,17 +17,11 @@ I'm a **Full-Stack MERN Developer** passionate about building scalable web appli
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📈 Activity Overview
 
-![Metrics](https://metrics.lecoq.io/AliNaseem123456789?template=classic&base.header=0&base.activity=0&base.community=0&repositories=1&metadata=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliNaseem123456789&show_icons=true&theme=transparent)
 
----
-
-### 🏆 GitHub Trophies
-This shows your achievements (e.g., "Longest Streak", "Number of Stars") as physical trophies.
-
-[![trophies](https://github-profile-trophy.vercel.app/?username=AliNaseem123456789&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNaseem123456789&layout=compact&theme=transparent)
 ----
 
 ### 🔥 Streak & Activity

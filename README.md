@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Naseem! 👋
+# Hi there, I'm Ali Naseem! 
 
 I'm a **Full-Stack MERN Developer** passionate about building scalable web applications and solving complex problems.
 

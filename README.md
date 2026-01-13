@@ -1,10 +1,10 @@
-# Hi there, I'm Ali Naseem! 👋
+# Hi there, I'm Ali Naseem! 
 
 I'm a **Full-Stack MERN Developer** passionate about building scalable web applications and solving complex problems.
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 | Category | Technologies |
 | :--- | :--- |
@@ -16,15 +16,7 @@ I'm a **Full-Stack MERN Developer** passionate about building scalable web appli
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 
 ---
-
-### 📈 Activity Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliNaseem123456789&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNaseem123456789&layout=compact&theme=transparent)
-----
-
-### 🔥 Streak & Activity
+### Streak & Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alinaseem123456789&theme=radical)
 
@@ -36,4 +28,4 @@ I'm a **Full-Stack MERN Developer** passionate about building scalable web appli
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@gmail.com)
 
 ---
-*If you like my work, feel free to star my repositories! ⭐*
+*If you like my work, feel free to star my repositories! *
